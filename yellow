@@ -1,0 +1,8 @@
+
+s = "Hello"
+print(s)
+for char in s:
+    print(char)
+s = 'Y' + s[1:]
+print(s)
+
